@@ -15,6 +15,7 @@ let obj = {
         "http://schemas.datacontract.org/2004/07/SAPI.Entities.WayBillGeneration",
       "xmlns:sapi1":
         "http://schemas.datacontract.org/2004/07/SAPI.Entities.Admin",
+        // ddd
     },
     "soap:Header":{
       $:{}
